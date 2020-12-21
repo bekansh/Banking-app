@@ -1,1 +1,1 @@
-# Banking-app
+# Banking-service
